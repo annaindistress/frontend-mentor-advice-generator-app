@@ -18,9 +18,22 @@ Users should be able to:
 
 ## Screenshot
 
+![](./screenshot.png)
+
 ## Links
 
+- [Solution URL](https://github.com/annaindistress/frontend-mentor-advice-generator-app)
+- [Live Site URL](https://annaindistress.github.io/frontend-mentor-advice-generator-app/)
+
 ## Built with
+
+- Semantic HTML5 markup
+- Flexbox
+- PostCSS
+- Mobile-first workflow
+- Vanilla JavaScript
+- Vite
+- [Advice Slip API](https://api.adviceslip.com)
 
 ## Author
 
