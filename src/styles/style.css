@@ -1,0 +1,10 @@
+@import './fonts.css';
+@import './components/box-sizing.css';
+@import './components/sr-only.css';
+@import './components/page.css';
+@import './components/advice.css';
+
+:root {
+  --color-primary: #53ffaa;
+  --shadow-primary: 0 0 40px 0 var(--color-primary);
+}
