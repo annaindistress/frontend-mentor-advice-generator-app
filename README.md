@@ -7,6 +7,8 @@ This is a solution to the [advice generator app challenge on Frontend Mentor](ht
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
 - [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
 ## The challenge
 
